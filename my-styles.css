@@ -1,0 +1,9 @@
+thead {
+    display: table-header-group;
+    /* Header row will repeat on every page */
+}
+
+tfoot {
+    display: table-footer-group;
+    /* Footer row will repeat on every page */
+}
